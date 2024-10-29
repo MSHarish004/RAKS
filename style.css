@@ -1,0 +1,39 @@
+ body{
+        background-color:navy;
+        border:2px solid black;
+        font-size:105%;
+        font-weight:bolder;
+        font-family: Verdana, Geneva, Tahoma, sans-serif; 
+        font-style: italic; 
+        text-decoration: solid;
+        
+    }  
+    img{
+        width:250px ;
+        height:250px;
+    }
+    #roll{
+        /* margin-left: 20%; */
+        text-align: center;
+        /* width: 500px; */
+        background-color: aliceblue;
+        padding:2px;
+        margin-bottom: 20px;
+    }
+    .section{
+        margin-left: 5px;
+    }
+    .card{
+        text-align: center;
+        background-color: bisque;
+        width: 20em;
+        padding: .2em;
+        border: 2px solid ;
+        margin: 2em;
+    }
+    #kavithai{
+        text-align: center;
+        padding: 1em;
+        color: #e36464;
+        margin-bottom: 20px;
+    }
